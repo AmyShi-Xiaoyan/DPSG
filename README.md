@@ -1,5 +1,8 @@
 # DPSG
+
+There is a free book for kindle "Pro Git".  The book is written by two of the GitHub founders.
 Yonggang was trying to change something. 
+
 
 Hi,
 
